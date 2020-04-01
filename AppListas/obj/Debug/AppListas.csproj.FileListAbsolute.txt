@@ -1,0 +1,5 @@
+/Users/adaltoss/Projects/AppListas/AppListas/bin/Debug/AppListas.exe
+/Users/adaltoss/Projects/AppListas/AppListas/bin/Debug/AppListas.pdb
+/Users/adaltoss/Projects/AppListas/AppListas/obj/Debug/AppListas.csprojAssemblyReference.cache
+/Users/adaltoss/Projects/AppListas/AppListas/obj/Debug/AppListas.exe
+/Users/adaltoss/Projects/AppListas/AppListas/obj/Debug/AppListas.pdb

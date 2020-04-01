@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{14D6EAD9-E30C-446F-8DD8-B38691D89F7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppListas/Program.cs">
+    <Files>
+      <File FileName="AppListas/Program.cs" Line="15" Column="1" />
+      <File FileName="AppListas/Carro.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppListas" expanded="True">
+            <Node name="AppListas" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AppListas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
